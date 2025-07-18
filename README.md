@@ -1,31 +1,22 @@
-<h1 align="center">👋 Fala aí, eu sou o Lucas!</h1>
+<h1 align="center">Hey there 👋 I'm Lucas!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Amo+programa%C3%A7%C3%A3o+e+projetos+pr%C3%A1ticos;Foco+em+MVPs+e+solu%C3%A7%C3%B5es+criativas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Systems+Analysis+and+Development+Student;I+love+coding+real+projects;MVP+mindset+%7C+Creative+and+Practical+Solutions!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Unicesumar
-- 💡 Curto explorar **soluções criativas, práticas e rápidas**
-- 🛠️ Foco em **ASP.NET**, **React**, **APIs** e **MVPs**
-- 🎯 Sempre buscando **evolução com foco em lógica e praticidade**
-- 🚀 “Não é sobre fazer perfeito, é sobre fazer funcionar e evoluir!”
-
----
-
-## 🏆 Minhas stats no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslantemamleite&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslantemamleite&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+- 🎓 Studying **Systems Analysis and Development** at Unicesumar
+- 💡 I love to explore **creative, fast, and useful** solutions
+- 🧠 Focused on **logic**, **clean code**, and **real projects**
+- 🔧 Techs I’m into: **C#**, **ASP.NET**, **APIs**, and learning **React**
+- 🚀 Motto: *“Don’t aim for perfect — aim to ship and improve!”*
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -33,24 +24,60 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 📈 Contribuições e Atividades
+## 📂 Projects
+
+| Project | Description |
+|--------|-------------|
+| **Finlyze** | 💰 Personal finance API using EF Core, clean architecture & unit testing |
+| **Assertix** | ✔️ A set of reusable validation and test helpers for .NET |
+| **Freelance Tools** | 📊 Automations and dashboards with Python, SQL and Power BI |
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=lucaslantemamleite&count_private=true&theme=tokyo-night" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslantemamleite&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslantemamleite&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslantemamleite&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucaslantemamleite&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SS,S,AAA,AA,A" />
 </p>
 
 ---
 
-## 📫 Contato
+## 🧠 Currently Learning
+
+- 🌐 JavaScript + DOM + async/await
+- 📐 Clean Architecture + Testing in .NET
+- ☁️ Azure & DevOps flow
+- 🖥️ Computer logic, architecture and math for CS
+
+---
+
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lantemam-leite-200bb8243/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslantemam2005@gmail.com)
 
 ---
 
-**"O perfeccionismo atrasa, o MVP entrega!"** 😄👊
+> 😄 **“Perfectionism delays. MVP delivers.”**  
+> Let’s build something useful — one idea at a time 👊
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaslantemamleite&color=blueviolet&style=flat-square" />
+</p>
