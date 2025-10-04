@@ -6,41 +6,34 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Studying **Systems Analysis and Development** at Unicesumar
-- 💡 I love to explore **creative, fast, and useful** solutions
-- 🧠 Focused on **logic**, **clean code**, and **real projects**
-- 🔧 Techs I’m into: **C#**, **ASP.NET**, **APIs**, and learning **React**
+- 🎓 Studying **Systems Analysis and Development** at Unicesumar  
+- 🧠 Focused on **logic**, **clean code**, and **real projects**  
+- 🔧 Techs I’m into: **C#**, **ASP.NET**, **APIs**, **Vue**, **Nuxt**, **TypeScript**.
 - 🚀 Motto: *“Don’t aim for perfect — aim to ship and improve!”*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Projects
-
-| Project | Description |
-|--------|-------------|
-| **Finlyze** | 💰 Personal finance API using EF Core, clean architecture & unit testing |
-| **Assertix** | ✔️ A set of reusable validation and test helpers for .NET |
-| **Freelance Tools** | 📊 Automations and dashboards with Python, SQL and Power BI |
-
----
-
-## 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslantemamleite&show_icons=true&theme=tokyonight&count_private=true" />
@@ -57,26 +50,21 @@
 
 ---
 
-## 🧠 Currently Learning
+### 📫 Let's Connect!
 
-- 🌐 JavaScript + DOM + async/await
-- 📐 Clean Architecture + Testing in .NET
-- ☁️ Azure & DevOps flow
-- 🖥️ Computer logic, architecture and math for CS
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lantemam-leite-200bb8243/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslantemam2005@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-lantemam-leite-200bb8243/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucaslantemam2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > 😄 **“Perfectionism delays. MVP delivers.”**  
 > Let’s build something useful — one idea at a time 👊
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucaslantemamleite&color=blueviolet&style=flat-square" />
