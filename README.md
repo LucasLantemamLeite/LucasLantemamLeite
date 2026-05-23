@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 * ⚙️ C# / .NET / ASP.NET
-* 🗄️ SQL (PostgreSQL)
+* 🗄️ SQL
 * 🧩 Blazor Server / WebAssembly
 * 🌱 Git / GitHub
 
